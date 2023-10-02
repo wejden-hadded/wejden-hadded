@@ -7,7 +7,7 @@
 
 
 
-### Hi there, I'm khantouch.com 👋
+### Hi there, I'm Wejden HADDED 👋
 
 ### I'm a Software Engineering : (JAVA/Angular)
 
